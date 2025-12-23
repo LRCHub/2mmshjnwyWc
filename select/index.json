@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "笑顔の未来へ",
+  "base_artist": "Elephant Kashimashi",
+  "createdAt": "2025-12-23T08:31:12.761879Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "笑顔の未来へ",
+      "artist": "堀江由衣",
+      "has_synced": true,
+      "path": "select/01_笑顔の未来へ_堀江由衣.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "笑顔の未来へ-2005-",
+      "artist": "堀江由衣",
+      "has_synced": false,
+      "path": "select/02_笑顔の未来へ-2005-_堀江由衣.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "笑顔の未来へ",
+      "artist": "エレファントカシマシ",
+      "has_synced": true,
+      "path": "select/03_笑顔の未来へ_エレファントカシマシ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "笑顔の未来へ",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/04_笑顔の未来へ_エレファントカシマシ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "笑顔の未来へ",
+      "artist": "Elephant Kashimashi",
+      "has_synced": true,
+      "path": "select/05_笑顔の未来へ_Elephant_Kashimashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "笑顔の未来へ",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_01_笑顔の未来へ_エレファントカシマシ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "笑顔の未来へ",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_02_笑顔の未来へ_エレファントカシマシ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "笑顔の未来へ",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_03_笑顔の未来へ_エレファントカシマシ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "笑顔の未来へ",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_04_笑顔の未来へ_エレファントカシマシ.txt"
+    }
+  ]
+}
